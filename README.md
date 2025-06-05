@@ -1,4 +1,4 @@
-## Hello, I'm *autarkied*
+## Hello, I'm *autarkied*!
 I'm someone from Earth interested in computer science and computer engineering.
 I also listen to music (mostly classical music), read novels or books about philosophy and stuff.
 
